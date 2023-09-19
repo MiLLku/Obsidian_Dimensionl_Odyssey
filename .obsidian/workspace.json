@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bec31a7460f974fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "마크다운 사용법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "426a4daef8581e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.게임 기획서/c.인게임 플레이/이동.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "A.게임 기획서/c.인게임 플레이/이동.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "A.게임 기획서/c.인게임 플레이/이동.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "A.게임 기획서/c.인게임 플레이/이동.md"
               }
             }
           }
@@ -143,9 +168,27 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35550fa2ce85689d",
-  "lastOpenFiles": []
+  "active": "426a4daef8581e34",
+  "lastOpenFiles": [
+    "A.게임 기획서/a.게임 설명/게임의 개요와 장르.md",
+    "A.게임 기획서/c.인게임 플레이/이동.md",
+    "A.게임 기획서/l.탐험대 관리",
+    "A.게임 기획서/k.적",
+    "A.게임 기획서/플레이 의도와 게임 목적.md",
+    "A.게임 기획서",
+    "A.게임 기획서/j.인터페이스",
+    "Z.기타 첨부파일",
+    "A.게임 기획서/c.인게임 플레이",
+    "A.게임 기획서/f.퀘스트",
+    "A.게임 기획서/e.상인",
+    "마크다운 사용법.md",
+    "A.게임 기획서/a.게임 설명",
+    "A.게임 기획서/i.아이템",
+    "README.md"
+  ]
 }
