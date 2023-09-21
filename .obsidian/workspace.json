@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35550fa2ce85689d",
+            "id": "297e8f9f2b4db059",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bec31a7460f974fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "마크다운 사용법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "426a4daef8581e34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A.게임 기획서/c.인게임 플레이/이동.md",
+                "file": "A.게임 기획서/k.적/Elderscar(Boss).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/c.인게임 플레이/이동.md",
+                "file": "A.게임 기획서/k.적/Elderscar(Boss).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/c.인게임 플레이/이동.md",
+                "file": "A.게임 기획서/k.적/Elderscar(Boss).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/c.인게임 플레이/이동.md"
+                "file": "A.게임 기획서/k.적/Elderscar(Boss).md"
               }
             }
           }
@@ -173,10 +148,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "426a4daef8581e34",
+  "active": "297e8f9f2b4db059",
   "lastOpenFiles": [
-    "A.게임 기획서/a.게임 설명/게임의 개요와 장르.md",
+    "A.게임 기획서/k.적/Elderscar(Boss).md",
     "A.게임 기획서/c.인게임 플레이/이동.md",
+    "A.게임 기획서/a.게임 설명/게임의 개요와 장르.md",
     "A.게임 기획서/l.탐험대 관리",
     "A.게임 기획서/k.적",
     "A.게임 기획서/플레이 의도와 게임 목적.md",
