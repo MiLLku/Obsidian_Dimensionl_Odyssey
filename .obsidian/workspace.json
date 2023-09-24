@@ -13,13 +13,130 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/k.적/Elderscar(Boss).md",
+                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime X.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "516f61f7cc2d0413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime X.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "281cf3fdc7500bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Y.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd5b0726d212b9bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime X.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27804dba72af4295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Y.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "724b271e7ad52c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-09-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9d668f561399df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Z.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6446331b64f5858b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Swift Blade 1.md"
+              }
+            }
+          },
+          {
+            "id": "2b5ac56ee11a2357",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Swift Blade 3.md"
+              }
+            }
+          },
+          {
+            "id": "85956a6b725ba55e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Patrol Force/Nexus Patrol Force Soldier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42943b55ca8bdbdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.게임 기획서/c.인게임 플레이/파밍.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -85,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/k.적/Elderscar(Boss).md",
+                "file": "A.게임 기획서/c.인게임 플레이/파밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/k.적/Elderscar(Boss).md",
+                "file": "A.게임 기획서/c.인게임 플레이/파밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +242,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/k.적/Elderscar(Boss).md"
+                "file": "A.게임 기획서/c.인게임 플레이/파밍.md"
               }
             }
+          },
+          {
+            "id": "fbf01a1d1c3ba0b9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,23 +273,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "297e8f9f2b4db059",
+  "active": "42943b55ca8bdbdf",
   "lastOpenFiles": [
-    "A.게임 기획서/k.적/Elderscar(Boss).md",
+    "Z.용어/Action Speed.md",
+    "A.게임 기획서/c.인게임 플레이/파밍.md",
     "A.게임 기획서/c.인게임 플레이/이동.md",
     "A.게임 기획서/a.게임 설명/게임의 개요와 장르.md",
-    "A.게임 기획서/l.탐험대 관리",
-    "A.게임 기획서/k.적",
-    "A.게임 기획서/플레이 의도와 게임 목적.md",
-    "A.게임 기획서",
-    "A.게임 기획서/j.인터페이스",
-    "Z.기타 첨부파일",
-    "A.게임 기획서/c.인게임 플레이",
-    "A.게임 기획서/f.퀘스트",
-    "A.게임 기획서/e.상인",
-    "마크다운 사용법.md",
-    "A.게임 기획서/a.게임 설명",
-    "A.게임 기획서/i.아이템",
-    "README.md"
+    "Excalidraw/Swift Blade 3.md",
+    "Excalidraw/Swift Blade 2.md",
+    "Excalidraw/Swift Blade 1.md",
+    "Z.용어/Range.md",
+    "Z.용어/Cooldown.md",
+    "Z.용어/Action Range.md",
+    "A.게임 기획서/k.적/Maps/etc/Elderscar(Boss).md",
+    "A.게임 기획서/k.적/Maps/etc",
+    "A.게임 기획서/k.적/Maps",
+    "A.게임 기획서/k.적/Information/Pattern/The Nexus Patrol Force/Nexus Patrol Force Marksman.md",
+    "A.게임 기획서/k.적/Information",
+    "A.게임 기획서/k.적/Maps/The Nexus",
+    "Excalidraw/Nexus Patrol Force Marksman Basic Attack.md",
+    "A.게임 기획서/k.적/Information/Pattern/The Nexus Patrol Force/Nexus Patrol Force Soldier.md",
+    "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime X.md",
+    "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Y.md",
+    "A.게임 기획서/k.적/Maps/The Nexus/Nexus Patrol Force.md",
+    "A.게임 기획서/k.적/Maps/The Nexus/The Nexus Prime(Boss).md",
+    "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Z.md",
+    "A.게임 기획서/k.적/Pattern/The Nexus Force/무제 파일.md",
+    "A.게임 기획서/k.적/Information/Pattern/The Nexus Patrol Force",
+    "Excalidraw/Nexus Prime Y Simple Attack.md",
+    "Swift Blade 2.md",
+    "Swift Blade 1.md",
+    "Attack Range.md",
+    "Z.용어/Attack Range.md",
+    "Z.용어",
+    "Excalidraw/Nexus Prime Y Shield Attack.md",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime",
+    "A.게임 기획서/k.적/Information/Pattern/Elderscar",
+    "A.게임 기획서/k.적/Information/Pattern",
+    "Excalidraw"
   ]
 }

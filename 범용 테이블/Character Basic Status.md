@@ -1,0 +1,3 @@
+| Health | Mental | Physical Armor | Magic Armor | Health Regeneration | Stealth Figures | Attack Range | Physical Damage | Magic Damage | Move Speed | Avoidance Rate | Critical Chance | Critical Damage | Attack Speed | Health | Attack Range |
+| ------ | ------ | -------------- | ----------- | ------------------- | --------------- | ------------ | --------------- | ------------ | ---------- | -------------- | --------------- | --------------- | ------------ | ------ | ------------ |
+|        |        |                |             |                     |                 |              |                 |              |            |                |                 |                 |              |        |              |

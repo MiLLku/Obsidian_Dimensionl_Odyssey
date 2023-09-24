@@ -1,0 +1,21 @@
+- [[Nexus Patrol Force]]와 같은 구성인 전사/사수/특수 3명으로 구성된 강력한 순찰대. 
+- Spawn Dimension
+	- The Nexus
+- Spawn Chance
+	- The Nexus : 3%
+- Spawn Position
+	- 플레이어나 다른 몹 스폰 위치와 겹치지 않는 랜덤한 위치
+- Battle Difficulty
+	- SSS
+- Spawn Mob
+	- [[Nexus Prime X]]
+	- [[Nexus Prime Y]]
+	- [[Nexus Prime Z]]
+- Gimmick
+	- X, Y, Z 각자 각각 자신의 표식에 해당되는 플레이어 캐릭터에게 표식을 부여합니다. 표식이 2개 중첩되면 표식의 디버프의 수치가 2배 증가한다.
+	- 표식이 3개 전부 중첩된 순간 해당 플레이어는 5초간 기절 상태이상에 빠지고 30초간 디버프의 수치가 3배 증가됩니다. 60초 후 표식은 새로운 대상을 찾는다.
+	- 표식은 30초마다 갱신된다.
+		- X의 표식: 캐릭터가 받는 피해량이 50% 증가
+		- Y의 표식: 캐릭터가 입히는 피해량이 25% 감소
+		- Z의 표식: 캐릭터의 이동 속도가 25% 감소
+	- X가 전투중인 캐릭터와 30M 이상 떨어질 시 모든 Nexus Prime이 추격을 중단한다.

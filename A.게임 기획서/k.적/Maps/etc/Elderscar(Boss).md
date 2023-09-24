@@ -1,0 +1,17 @@
+- 여러 차원을 들쑤시고 다니는 폭력적인 집단. 미래적이며 매우 강력한 공격을 사용한다. 매우 강력하고 완벽한 무장을 한 파티일 경우 대적할 수 있으며, 그 외는 도망가야 하는 적이다.
+- Spawn Dimension
+	- The Nexus, The Lost Temple
+- Spawn Chance
+	- The Nexus : 3%
+	- The Lost Temple : 1%
+- Spawn Position
+	- 플레이어나 다른 몹 스폰 위치와 겹치지 않는 랜덤한 위치
+- Battle Difficulty
+	- SSS
+- Spawn Mob
+	- [[Elderscar Code Alpha]]
+	- [[Elderscar Code Beta]]
+	- [[Elderscar Code Gamma]]
+	- [[Elderscar Code Delta]]
+	- [[Elderscar Code Epsilon]]
+- 

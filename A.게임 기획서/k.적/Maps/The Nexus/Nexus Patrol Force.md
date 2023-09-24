@@ -1,0 +1,18 @@
+- 전사와 사수로 구성된 순찰대. 
+- Spawn Dimension
+	- The Nexus
+- Spawn Chance
+	- The Nexus : 50%
+- Spawn Position
+	- The Nexus 맵에 정해진 위치, 위치마다 순찰대의 인원 수는 다르다.
+- Battle Difficulty
+	- S
+- Spawn Mob
+	- [[Nexus Patrol Force Marksman]]
+	- [[Nexus Patrol Force Soldier]]
+- Gimmick
+	- X, Y, Z 각자 각각 자신의 표식에 해당되는 플레이어 캐릭터에게 표식을 부여합니다. 표식이 2개/3개 중첩되면 표식의 디버프의 수치가 2배/3배 증가합니다.
+		- X의 표식: 캐릭터가 받는 피해량이 50% 증가
+		- Y의 표식: 캐릭터가 입히는 피해량이 25% 감소
+		- Z의 표식: 캐릭터의 이동 속도가 25% 감소
+		

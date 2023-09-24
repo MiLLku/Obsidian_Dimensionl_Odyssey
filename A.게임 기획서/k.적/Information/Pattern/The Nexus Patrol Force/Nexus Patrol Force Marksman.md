@@ -1,0 +1,7 @@
+- # 패턴
+	- ##### 기본 공격
+		- 2점사의 기본 공격을 가한다. (논타겟, 각각 공격력의 100%)
+		- [[Range]] : 15M
+		- [[Action Range]] : 17M
+		- [[Cooldown]] : 2s
+		- [[Nexus Patrol Force Marksman Basic Attack]]
