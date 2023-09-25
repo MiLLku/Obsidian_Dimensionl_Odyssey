@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/c.인게임 플레이/파밍.md",
+                "file": "Z.용어/Noise.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/c.인게임 플레이/파밍.md",
+                "file": "Z.용어/Noise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/c.인게임 플레이/파밍.md",
+                "file": "Z.용어/Noise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/c.인게임 플레이/파밍.md"
+                "file": "Z.용어/Noise.md"
               }
             }
           },
@@ -259,7 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,11 +273,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42943b55ca8bdbdf",
+  "active": "5c1619d7bfa977cf",
   "lastOpenFiles": [
-    "Z.용어/Action Speed.md",
-    "A.게임 기획서/c.인게임 플레이/파밍.md",
     "A.게임 기획서/c.인게임 플레이/이동.md",
+    "Z.용어/Noise.md",
+    "A.게임 기획서/c.인게임 플레이/파밍.md",
+    "Z.용어/Action Speed.md",
     "A.게임 기획서/a.게임 설명/게임의 개요와 장르.md",
     "Excalidraw/Swift Blade 3.md",
     "Excalidraw/Swift Blade 2.md",
@@ -306,7 +307,6 @@
     "Attack Range.md",
     "Z.용어/Attack Range.md",
     "Z.용어",
-    "Excalidraw/Nexus Prime Y Shield Attack.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime",
