@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/a.게임 설명/게임의 스토리.md",
+                "file": "Z.용어/Weight.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/a.게임 설명/게임의 스토리.md",
+                "file": "Z.용어/Weight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/a.게임 설명/게임의 스토리.md",
+                "file": "Z.용어/Weight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/a.게임 설명/게임의 스토리.md"
+                "file": "Z.용어/Weight.md"
               }
             }
           },
@@ -275,15 +275,19 @@
   },
   "active": "42943b55ca8bdbdf",
   "lastOpenFiles": [
-    "Z.용어/차원이동 포탈.md",
+    "A.게임 기획서/c.인게임 플레이/재정비.md",
+    "Z.용어/Weight.md",
+    "A.게임 기획서/b.캐릭터 요소",
+    "A.게임 기획서/d.탐험대/무제 파일.md",
+    "A.게임 기획서/c.인게임 플레이/파밍.md",
+    "A.게임 기획서/c.인게임 플레이/이동.md",
+    "A.게임 기획서/c.인게임 플레이/시간과 안정성.md",
     "A.게임 기획서/a.게임 설명/게임의 스토리.md",
+    "Z.용어/차원이동 포탈.md",
     "A.게임 기획서/a.게임 설명/게임의 소재.md",
     "Z.용어/정신예속.md",
     "Z.용어/인조인간.md",
-    "A.게임 기획서/d.탐험대/무제 파일.md",
-    "A.게임 기획서/c.인게임 플레이/파밍.md",
     "A.게임 기획서/d.탐험대",
-    "A.게임 기획서/c.인게임 플레이/이동.md",
     "Z.용어/Range.md",
     "Z.용어/Noise Distance.md",
     "Z.용어/Noise.md",
@@ -303,15 +307,11 @@
     "Excalidraw/Nexus Patrol Force Marksman Basic Attack.md",
     "A.게임 기획서/k.적/Information/Pattern/The Nexus Patrol Force/Nexus Patrol Force Soldier.md",
     "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Y.md",
-    "A.게임 기획서/k.적/Maps/The Nexus/Nexus Patrol Force.md",
-    "A.게임 기획서/k.적/Maps/The Nexus/The Nexus Prime(Boss).md",
-    "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Z.md",
     "A.게임 기획서/k.적/Information/Pattern/The Nexus Patrol Force",
     "Z.용어",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime",
-    "A.게임 기획서/k.적/Information/Pattern/Elderscar",
-    "A.게임 기획서/k.적/Information/Pattern"
+    "A.게임 기획서/k.적/Information/Pattern/Elderscar"
   ]
 }
