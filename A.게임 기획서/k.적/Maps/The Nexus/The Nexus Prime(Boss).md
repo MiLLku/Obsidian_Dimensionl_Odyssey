@@ -8,7 +8,7 @@
 - Battle Difficulty
 	- SSS
 - Spawn Mob
-	- [[Nexus Prime X]]
+	- [[Nexus Prime X]] 
 	- [[Nexus Prime Y]]
 	- [[Nexus Prime Z]]
 - Gimmick
@@ -19,3 +19,9 @@
 		- Y의 표식: 캐릭터가 입히는 피해량이 25% 감소
 		- Z의 표식: 캐릭터의 이동 속도가 25% 감소
 	- X가 전투중인 캐릭터와 30M 이상 떨어질 시 모든 Nexus Prime이 추격을 중단한다.
+- Image
+	- [[Nexus Prime X Illust.png]]
+	- 들고있는 총은 미래적인 총으로 변경. [[더 사이클의 페이직 랜서.png]] (예시)
+	- Y는 같은 캐릭터 디자인에 에너지 방패를 들고 있는 모습 [[Nexus Prime Y Shield]]
+	- Z는 어두운 색에 암살자 느낌
+	- [[Nexus Prime Z Illust.png]]
