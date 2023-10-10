@@ -173,7 +173,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/e.아이템/아티팩트/Wind Walker.md",
+                "file": "범용 테이블/Drop Item Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/e.아이템/아티팩트/Wind Walker.md",
+                "file": "범용 테이블/Drop Item Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/e.아이템/아티팩트/Wind Walker.md",
+                "file": "범용 테이블/Drop Item Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/e.아이템/아티팩트/Wind Walker.md"
+                "file": "범용 테이블/Drop Item Info.md"
               }
             }
           },
@@ -319,14 +319,26 @@
   },
   "active": "756f66db20db003a",
   "lastOpenFiles": [
-    "DALL·E 2023-10-09 20.44.33 - Illustration of a pocket watch that exudes dark magic. The exterior of the 'Shadow Clock' is adorned with swirling dark patterns, resembling shadows i.png",
-    "DALL·E 2023-10-09 21.21.48 - Illustration of a 'Mystic Mirage' relic, designed in the vein of League of Legends items. The relic is a golden compass with an intricate design, its .png",
-    "DALL·E 2023-10-09 21.23.37 - Illustration of an item named 'Time Keeper' inspired by the aesthetic of League of Legends items. The artifact is a sandglass with golden frames, the .png",
-    "DALL·E 2023-10-09 21.25.55 - Illustration of a 'Nature's Blessing' staff, designed in the vein of League of Legends items. The staff is crafted from ancient twisted wood, with a c.png",
-    "DALL·E 2023-10-09 22.08.01 - Illustration of an item named 'Wind Waker' inspired by the aesthetic of League of Legends items. The artifact is a slender staff with a sapphire-blue .png",
-    "Extra/Whispering Relic Illust.png",
+    "범용 테이블/Merchant Info.md",
+    "범용 테이블/Research Info.md",
+    "범용 테이블/Drop Item Info.md",
+    "범용 테이블/Character Basic Status.md",
+    "Z.기타/루팅 시스템.md",
+    "Z.기타/아이템 루팅 관련.md",
+    "A.게임 기획서/d.탐험대/연구소.md",
+    "A.게임 기획서/c.인게임 플레이/파밍.md",
+    "A.게임 기획서/c.인게임 플레이/시간과 안정성.md",
+    "A.게임 기획서/c.인게임 플레이/이동.md",
     "A.게임 기획서/e.아이템/아티팩트/Whispering Relic.md",
     "A.게임 기획서/e.아이템/아티팩트/Wind Walker.md",
+    "A.게임 기획서/e.아이템/아티팩트/Time Keeper.md",
+    "A.게임 기획서/e.아이템/아티팩트/Soul Eater.md",
+    "DALL·E 2023-10-09 22.08.01 - Illustration of an item named 'Wind Waker' inspired by the aesthetic of League of Legends items. The artifact is a slender staff with a sapphire-blue .png",
+    "DALL·E 2023-10-09 21.25.55 - Illustration of a 'Nature's Blessing' staff, designed in the vein of League of Legends items. The staff is crafted from ancient twisted wood, with a c.png",
+    "DALL·E 2023-10-09 21.23.37 - Illustration of an item named 'Time Keeper' inspired by the aesthetic of League of Legends items. The artifact is a sandglass with golden frames, the .png",
+    "DALL·E 2023-10-09 21.21.48 - Illustration of a 'Mystic Mirage' relic, designed in the vein of League of Legends items. The relic is a golden compass with an intricate design, its .png",
+    "DALL·E 2023-10-09 20.44.33 - Illustration of a pocket watch that exudes dark magic. The exterior of the 'Shadow Clock' is adorned with swirling dark patterns, resembling shadows i.png",
+    "Extra/Whispering Relic Illust.png",
     "A.게임 기획서/e.아이템/아티팩트/Abyssal Echo.md",
     "Extra/Abyssal Echo Illust.png",
     "Extra/DALL·E 2023-10-10 00.53.03 - Illustration of an item named 'Abyssal Echo' inspired by the aesthetic of League of Legends items. The artifact is a deep blue crystal orb, encapsulat 1.png",
@@ -337,28 +349,16 @@
     "A.게임 기획서/e.아이템/아티팩트/Mystic Mirage.md",
     "A.게임 기획서/e.아이템/아티팩트/Nature's Blessing.md",
     "A.게임 기획서/e.아이템/아티팩트/Shadow Clock.md",
-    "A.게임 기획서/e.아이템/아티팩트/Soul Eater.md",
-    "A.게임 기획서/e.아이템/아티팩트/Time Keeper.md",
     "A.게임 기획서/e.아이템/아티팩트/무제 폴더",
     "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime X.md",
     "A.게임 기획서/k.적/Information/Pattern/The Nexus Patrol Force/Nexus Patrol Force Soldier.md",
     "Exitdraw/Nexus Prime X Cosmic Canon.md",
     "Z.기타/아티팩트의 의도.md",
-    "Z.기타/루팅 시스템.md",
     "Exitdraw/Nexus Prime X Cosmotic Granade_Blackhole.md",
-    "Z.기타/변수/Range.md",
-    "Z.기타/변수/Action Range.md",
-    "A.게임 기획서/b.캐릭터 요소/상태이상/정지.md",
-    "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md",
     "Extra/Soul Eater Illust.png",
-    "A.게임 기획서/e.아이템/장비/무제 파일.md",
     "A.게임 기획서/e.아이템/아티팩트",
-    "A.게임 기획서/d.탐험대/연구소.md",
     "A.게임 기획서/e.아이템/장비",
     "A.게임 기획서/e.아이템",
-    "Z.기타/아이템 루팅 관련.md",
-    "A.게임 기획서/k.적/Information/Pattern/The Nexus Patrol Force/Nexus Patrol Force Marksman.md",
-    "Extra/Nexus Prime Z Illust.png",
     "Extra",
     "A.게임 기획서/b.캐릭터 요소/상태이상",
     "A.게임 기획서/b.캐릭터 요소",
