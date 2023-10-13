@@ -173,7 +173,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "범용 테이블/Drop Item Info.md",
+                "file": "Z.기타/아이템 루팅 관련.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "범용 테이블/Drop Item Info.md",
+                "file": "Z.기타/아이템 루팅 관련.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "범용 테이블/Drop Item Info.md",
+                "file": "Z.기타/아이템 루팅 관련.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "범용 테이블/Drop Item Info.md"
+                "file": "Z.기타/아이템 루팅 관련.md"
               }
             }
           },
@@ -319,13 +319,19 @@
   },
   "active": "756f66db20db003a",
   "lastOpenFiles": [
-    "범용 테이블/Merchant Info.md",
-    "범용 테이블/Research Info.md",
-    "범용 테이블/Drop Item Info.md",
-    "범용 테이블/Character Basic Status.md",
-    "Z.기타/루팅 시스템.md",
+    "Z.기타/아티팩트의 의도.md",
     "Z.기타/아이템 루팅 관련.md",
+    "Z.기타/무게 시스템.md",
+    "참고 사항/Drop Item Info.md",
+    "참고 사항/Merchant Info.md",
+    "참고 사항/UseableBattleItem.md",
+    "참고 사항/Character Basic Status.md",
+    "참고 사항/Mob Status.md",
+    "참고 사항/Play Status.md",
+    "참고 사항/Research Info.md",
+    "참고 사항/Total Effect 적용방식.md",
     "A.게임 기획서/d.탐험대/연구소.md",
+    "Z.기타/루팅 시스템.md",
     "A.게임 기획서/c.인게임 플레이/파밍.md",
     "A.게임 기획서/c.인게임 플레이/시간과 안정성.md",
     "A.게임 기획서/c.인게임 플레이/이동.md",
@@ -348,13 +354,7 @@
     "A.게임 기획서/e.아이템/아티팩트/Nebula Quiver.md",
     "A.게임 기획서/e.아이템/아티팩트/Mystic Mirage.md",
     "A.게임 기획서/e.아이템/아티팩트/Nature's Blessing.md",
-    "A.게임 기획서/e.아이템/아티팩트/Shadow Clock.md",
     "A.게임 기획서/e.아이템/아티팩트/무제 폴더",
-    "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime X.md",
-    "A.게임 기획서/k.적/Information/Pattern/The Nexus Patrol Force/Nexus Patrol Force Soldier.md",
-    "Exitdraw/Nexus Prime X Cosmic Canon.md",
-    "Z.기타/아티팩트의 의도.md",
-    "Exitdraw/Nexus Prime X Cosmotic Granade_Blackhole.md",
     "Extra/Soul Eater Illust.png",
     "A.게임 기획서/e.아이템/아티팩트",
     "A.게임 기획서/e.아이템/장비",

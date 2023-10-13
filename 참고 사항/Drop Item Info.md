@@ -13,7 +13,7 @@ ItemRarity(enum) : 아이템의 희귀도.
 ItemPrice(float) : 아이템 값어치 
 
 ItemKind(enum) : 아이템 종류 (전투.회복 '소모품' 포함)
-- Medical / Combat / Mineral / Key / Tools / Luxury / Rune / Material
+- Medical / Buff / Mineral / Key / Tools / Luxury / Rune / Material
 
 ItemWeight(float) : 아이템의 무게
 
@@ -24,7 +24,7 @@ ItemHorizontalVolume(int) : 아이템이 차지하는 가로 공간
 ItemMaxStack(int) : 한 인벤토리 슬롯에서 쌓을 수 있는 아이템의 최대 수량
 
 ItemUsable(bool) : 레이드에서 사용 가능한 아이템인가?
-->UsableItem(Medical / Combat) Script 따로 제작
+->UsableItem(Medical / Buff) Script 따로 제작
 
 
 
