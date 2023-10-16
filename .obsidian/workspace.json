@@ -8,179 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "297e8f9f2b4db059",
+            "id": "8fac438d44013986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime X.md",
+                "file": "A.게임 기획서/d.탐험대/거래소.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "516f61f7cc2d0413",
+            "id": "d324c2201b43a942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime X.md",
+                "file": "A.게임 기획서/d.탐험대/아티팩트 데스크.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "281cf3fdc7500bdc",
+            "id": "6a7d13e6795e486e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Y.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd5b0726d212b9bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime X.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27804dba72af4295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Y.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "724b271e7ad52c7d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d9d668f561399df3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Z.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6446331b64f5858b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Exitdraw/Swift Blade 1.md"
-              }
-            }
-          },
-          {
-            "id": "2b5ac56ee11a2357",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Exitdraw/Swift Blade 3.md"
-              }
-            }
-          },
-          {
-            "id": "85956a6b725ba55e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A.게임 기획서/k.적/Information/Pattern/The Nexus Patrol Force/Nexus Patrol Force Soldier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42943b55ca8bdbdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z.기타/변수/Weight.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cfe64ed79503f06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9f244053257c4bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A.게임 기획서/k.적/Maps/The Nexus/The Nexus Prime(Boss).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c455922418e2b227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z.기타/아이템 루팅 관련.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "756f66db20db003a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z.기타/아이템 루팅 관련.md",
+                "file": "A.게임 기획서/d.탐험대/거래소.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 2
+      },
+      {
+        "id": "cc4b09c485fffe70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9381b1a1e50d20c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/거래소 소모품, 재료거래 UI.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z.기타/아이템 루팅 관련.md",
+                "file": "A.게임 기획서/d.탐험대/거래소.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z.기타/아이템 루팅 관련.md",
+                "file": "A.게임 기획서/d.탐험대/거래소.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z.기타/아이템 루팅 관련.md"
+                "file": "A.게임 기획서/d.탐험대/거래소.md"
               }
             }
           },
@@ -303,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,45 +197,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "756f66db20db003a",
+  "active": "6a7d13e6795e486e",
   "lastOpenFiles": [
-    "Z.기타/아티팩트의 의도.md",
-    "Z.기타/아이템 루팅 관련.md",
-    "Z.기타/무게 시스템.md",
-    "참고 사항/Drop Item Info.md",
-    "참고 사항/Merchant Info.md",
-    "참고 사항/UseableBattleItem.md",
-    "참고 사항/Character Basic Status.md",
-    "참고 사항/Mob Status.md",
-    "참고 사항/Play Status.md",
-    "참고 사항/Research Info.md",
-    "참고 사항/Total Effect 적용방식.md",
+    "Excalidraw/거래소 소모품, 재료거래 UI.md",
+    "A.게임 기획서/d.탐험대/거래소.md",
+    "Excalidraw/거래소 판매중 아이템.md",
+    "Excalidraw/거래소 장비거래 UI.md",
     "A.게임 기획서/d.탐험대/연구소.md",
-    "Z.기타/루팅 시스템.md",
+    "A.게임 기획서/d.탐험대/아티팩트 데스크.md",
+    "Excalidraw/아티팩트 능력치 재설정 비용.md",
+    "참고 사항/Character Basic Status.md",
+    "참고 사항/Play Status.md",
+    "Excalidraw/Nexus Patrol Force Marksman Basic Attack.md",
+    "Excalidraw",
+    "참고 사항/스토리 끄적이기.md",
+    "Z.기타/아이템 루팅 관련.md",
+    "A.게임 기획서/k.적/Maps/The Nexus/The Nexus Prime(Boss).md",
+    "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md",
+    "Z.기타/변수/Weight.md",
+    "A.게임 기획서/k.적/Information/Pattern/The Nexus Patrol Force/Nexus Patrol Force Soldier.md",
+    "Excalidraw/Swift Blade 3.md",
+    "Excalidraw/Swift Blade 1.md",
+    "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Z.md",
+    "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime Y.md",
+    "A.게임 기획서/k.적/Information/Pattern/The Nexus Prime/Nexus Prime X.md",
+    "A.게임 기획서/f.UI",
+    "A.게임 기획서/d.탐험대/재배 시설.md",
     "A.게임 기획서/c.인게임 플레이/파밍.md",
-    "A.게임 기획서/c.인게임 플레이/시간과 안정성.md",
+    "A.게임 기획서/c.인게임 플레이/재정비.md",
     "A.게임 기획서/c.인게임 플레이/이동.md",
-    "A.게임 기획서/e.아이템/아티팩트/Whispering Relic.md",
-    "A.게임 기획서/e.아이템/아티팩트/Wind Walker.md",
-    "A.게임 기획서/e.아이템/아티팩트/Time Keeper.md",
-    "A.게임 기획서/e.아이템/아티팩트/Soul Eater.md",
-    "DALL·E 2023-10-09 22.08.01 - Illustration of an item named 'Wind Waker' inspired by the aesthetic of League of Legends items. The artifact is a slender staff with a sapphire-blue .png",
+    "A.게임 기획서/c.인게임 플레이/시간과 안정성.md",
+    "Extra/Abyssal Echo Illust.png",
+    "Extra/더 사이클의 페이직 랜서.png",
     "DALL·E 2023-10-09 21.25.55 - Illustration of a 'Nature's Blessing' staff, designed in the vein of League of Legends items. The staff is crafted from ancient twisted wood, with a c.png",
+    "DALL·E 2023-10-09 22.08.01 - Illustration of an item named 'Wind Waker' inspired by the aesthetic of League of Legends items. The artifact is a slender staff with a sapphire-blue .png",
     "DALL·E 2023-10-09 21.23.37 - Illustration of an item named 'Time Keeper' inspired by the aesthetic of League of Legends items. The artifact is a sandglass with golden frames, the .png",
     "DALL·E 2023-10-09 21.21.48 - Illustration of a 'Mystic Mirage' relic, designed in the vein of League of Legends items. The relic is a golden compass with an intricate design, its .png",
     "DALL·E 2023-10-09 20.44.33 - Illustration of a pocket watch that exudes dark magic. The exterior of the 'Shadow Clock' is adorned with swirling dark patterns, resembling shadows i.png",
     "Extra/Whispering Relic Illust.png",
-    "A.게임 기획서/e.아이템/아티팩트/Abyssal Echo.md",
-    "Extra/Abyssal Echo Illust.png",
-    "Extra/DALL·E 2023-10-10 00.53.03 - Illustration of an item named 'Abyssal Echo' inspired by the aesthetic of League of Legends items. The artifact is a deep blue crystal orb, encapsulat 1.png",
-    "Extra/Celestial Compass Illust.png",
-    "Exitdraw/Nexus Patrol Force Marksman Basic Attack.md",
-    "A.게임 기획서/e.아이템/아티팩트/Celestial Compass.md",
-    "A.게임 기획서/e.아이템/아티팩트/Nebula Quiver.md",
-    "A.게임 기획서/e.아이템/아티팩트/Mystic Mirage.md",
-    "A.게임 기획서/e.아이템/아티팩트/Nature's Blessing.md",
-    "A.게임 기획서/e.아이템/아티팩트/무제 폴더",
     "Extra/Soul Eater Illust.png",
+    "Extra/Nexus Prime Z Illust.png",
+    "A.게임 기획서/e.아이템/아티팩트/무제 폴더",
     "A.게임 기획서/e.아이템/아티팩트",
     "A.게임 기획서/e.아이템/장비",
     "A.게임 기획서/e.아이템",
@@ -363,8 +245,6 @@
     "A.게임 기획서/b.캐릭터 요소/상태이상",
     "A.게임 기획서/b.캐릭터 요소",
     "Z.용어/스텟",
-    "A.게임 기획서/b.캐릭터 요소",
-    "A.게임 기획서/d.탐험대",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

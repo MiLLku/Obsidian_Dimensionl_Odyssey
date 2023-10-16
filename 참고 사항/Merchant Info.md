@@ -1,6 +1,6 @@
 MerchantName : 상인의 이름
 
-MerchantNum : 상인 번
+MerchantNum : 상인 번호
 
 MerchantType : 상인의 유형(매입하는 물건, 매입하지 않는 물건)
 
