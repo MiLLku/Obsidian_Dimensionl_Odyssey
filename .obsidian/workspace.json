@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/d.탐험대/거래소.md",
+                "file": "A.게임 기획서/g.캐릭터/Bland Dancer - Valentine.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,22 +45,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "cc4b09c485fffe70",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9381b1a1e50d20c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/거래소 소모품, 재료거래 UI.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/d.탐험대/거래소.md",
+                "file": "A.게임 기획서/g.캐릭터/Bland Dancer - Valentine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/d.탐험대/거래소.md",
+                "file": "A.게임 기획서/g.캐릭터/Bland Dancer - Valentine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/d.탐험대/거래소.md"
+                "file": "A.게임 기획서/g.캐릭터/Bland Dancer - Valentine.md"
               }
             }
           },
@@ -199,7 +183,10 @@
   },
   "active": "6a7d13e6795e486e",
   "lastOpenFiles": [
+    "A.게임 기획서/g.캐릭터/Bland Dancer - Valentine.md",
+    "A.게임 기획서/g.캐릭터/캐릭터의 스킬 구조.md",
     "Excalidraw/거래소 소모품, 재료거래 UI.md",
+    "A.게임 기획서/g.캐릭터",
     "A.게임 기획서/d.탐험대/거래소.md",
     "Excalidraw/거래소 판매중 아이템.md",
     "Excalidraw/거래소 장비거래 UI.md",
@@ -225,8 +212,6 @@
     "A.게임 기획서/d.탐험대/재배 시설.md",
     "A.게임 기획서/c.인게임 플레이/파밍.md",
     "A.게임 기획서/c.인게임 플레이/재정비.md",
-    "A.게임 기획서/c.인게임 플레이/이동.md",
-    "A.게임 기획서/c.인게임 플레이/시간과 안정성.md",
     "Extra/Abyssal Echo Illust.png",
     "Extra/더 사이클의 페이직 랜서.png",
     "DALL·E 2023-10-09 21.25.55 - Illustration of a 'Nature's Blessing' staff, designed in the vein of League of Legends items. The staff is crafted from ancient twisted wood, with a c.png",
@@ -244,7 +229,6 @@
     "Extra",
     "A.게임 기획서/b.캐릭터 요소/상태이상",
     "A.게임 기획서/b.캐릭터 요소",
-    "Z.용어/스텟",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
