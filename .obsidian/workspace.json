@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md",
+                "file": "A.게임 기획서/b.캐릭터 요소/스테이터스.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md",
+                "file": "A.게임 기획서/b.캐릭터 요소/스테이터스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md",
+                "file": "A.게임 기획서/b.캐릭터 요소/스테이터스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md"
+                "file": "A.게임 기획서/b.캐릭터 요소/스테이터스.md"
               }
             }
           }
@@ -159,6 +159,9 @@
   },
   "active": "1422a247c64bf621",
   "lastOpenFiles": [
+    "A.게임 기획서/b.캐릭터 요소/상태이상/정보 교란.md",
+    "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md",
+    "A.게임 기획서/b.캐릭터 요소/스테이터스.md",
     "A.게임 기획서/c.인게임 플레이/이동.md",
     "A.게임 기획서/c.인게임 플레이/무제 파일.md",
     "A.게임 기획서/g.캐릭터/Gunner - Swift.md"
