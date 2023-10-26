@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/스테이터스.md",
+                "file": "A.게임 기획서/e.아이템/장비/장비 시스템.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9407f5f6333893a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.게임 기획서/e.아이템/장비/장비 시스템.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/스테이터스.md",
+                "file": "A.게임 기획서/e.아이템/장비/장비 시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/스테이터스.md",
+                "file": "A.게임 기획서/e.아이템/장비/장비 시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/스테이터스.md"
+                "file": "A.게임 기획서/e.아이템/장비/장비 시스템.md"
               }
             }
           },
@@ -165,12 +177,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1422a247c64bf621",
+  "active": "9407f5f6333893a0",
   "lastOpenFiles": [
+    "Excalidraw/제작소 장비제작, 세공 UI.md",
+    "Excalidraw/아티팩트 능력치 재설정 비용.md",
+    "A.게임 기획서/e.아이템/장비/장비 시스템.md",
+    "A.게임 기획서/e.아이템/인조인간 정신의체/인조인간 등급제.md",
+    "A.게임 기획서/d.탐험대/연구소.md",
+    "A.게임 기획서/d.탐험대/아티팩트 데스크.md",
+    "참고 사항/추가 능력치 적용.md",
+    "A.게임 기획서/e.아이템/아티팩트/아티팩트 클래스.md",
+    "A.게임 기획서/b.캐릭터 요소/스테이터스.md",
+    "A.게임 기획서/e.아이템/인조인간 정신의체",
+    "Z.기타/변수/Weight.md",
+    "DALL·E 2023-10-09 21.21.48 - Illustration of a 'Mystic Mirage' relic, designed in the vein of League of Legends items. The relic is a golden compass with an intricate design, its .png",
+    "DALL·E 2023-10-09 20.44.33 - Illustration of a pocket watch that exudes dark magic. The exterior of the 'Shadow Clock' is adorned with swirling dark patterns, resembling shadows i.png",
+    "A.게임 기획서/c.인게임 플레이/파밍.md",
     "A.게임 기획서/a.게임 설명/게임의 소재.md",
     "A.게임 기획서/a.게임 설명/게임의 스토리 요약.md",
     "참고 사항/스토리 끄적이기.md",
-    "A.게임 기획서/b.캐릭터 요소/스테이터스.md",
     "참고 사항/Character Basic Status.md",
     "A.게임 기획서/b.캐릭터 요소/상태이상/정보 교란.md",
     "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md",
