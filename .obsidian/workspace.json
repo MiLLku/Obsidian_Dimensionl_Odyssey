@@ -13,19 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/정신 가속.md",
+                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "94620a66c617d6cd",
+        "type": "tabs",
+        "children": [
           {
-            "id": "9407f5f6333893a0",
+            "id": "94cb1f200a9ab0db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z.기타/무게 시스템.md",
+                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/슬로우.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/정신 가속.md",
+                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/슬로우.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/정신 가속.md",
+                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/슬로우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/정신 가속.md"
+                "file": "A.게임 기획서/b.캐릭터 요소/상태이상/슬로우.md"
               }
             }
           },
@@ -168,12 +174,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1422a247c64bf621",
+  "active": "94cb1f200a9ab0db",
   "lastOpenFiles": [
-    "A.게임 기획서/b.캐릭터 요소/상태이상/교란.md",
-    "A.게임 기획서/b.캐릭터 요소/상태이상/슬로우.md",
     "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md",
+    "A.게임 기획서/b.캐릭터 요소/상태이상/슬로우.md",
     "A.게임 기획서/b.캐릭터 요소/상태이상/정신 가속.md",
+    "A.게임 기획서/b.캐릭터 요소/상태이상/교란.md",
     "A.게임 기획서/g.캐릭터/Whisper - Nova.md",
     "A.게임 기획서/g.캐릭터/Gunner - Swift.md",
     "A.게임 기획서/g.캐릭터/Bland Dancer - Valentine.md",
