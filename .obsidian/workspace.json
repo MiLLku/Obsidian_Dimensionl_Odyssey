@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/e.아이템/소모 아이템/아드레날린 자극제.md",
+                "file": "A.게임 기획서/e.아이템/소모 아이템/자극제/자극제 설명, 테이블.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/e.아이템/소모 아이템/아드레날린 자극제.md",
+                "file": "A.게임 기획서/e.아이템/소모 아이템/자극제/자극제 설명, 테이블.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/e.아이템/소모 아이템/아드레날린 자극제.md",
+                "file": "A.게임 기획서/e.아이템/소모 아이템/자극제/자극제 설명, 테이블.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/e.아이템/소모 아이템/아드레날린 자극제.md"
+                "file": "A.게임 기획서/e.아이템/소모 아이템/자극제/자극제 설명, 테이블.md"
               }
             }
           },
@@ -159,17 +159,20 @@
   },
   "active": "416266c575fcc21f",
   "lastOpenFiles": [
+    "A.게임 기획서/e.아이템/소모 아이템/회복 아이템 테이블.md",
+    "A.게임 기획서/e.아이템/소모 아이템/자극제/자극제 설명, 테이블.md",
+    "A.게임 기획서/e.아이템/소모 아이템/자극제/아드레날린 자극제.md",
+    "A.게임 기획서/e.아이템/소모 아이템/자극제",
+    "A.게임 기획서/e.아이템/소모 아이템/자극제.md",
     "A.게임 기획서/e.아이템/소모 아이템/체력 관련/고속 수복 키트.md",
     "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(대).md",
     "A.게임 기획서/e.아이템/소모 아이템/자극제",
     "A.게임 기획서/e.아이템/소모 아이템/정신력 관련",
-    "A.게임 기획서/e.아이템/소모 아이템/아드레날린 자극제.md",
     "A.게임 기획서/e.아이템/소모 아이템/체력 관련",
     "A.게임 기획서/e.아이템/소모 아이템/정신력 관련/각성제.md",
     "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(중).md",
     "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(소).md",
     "A.게임 기획서/e.아이템/소모 아이템/체력 관련/수복 키트.md",
-    "A.게임 기획서/e.아이템/소모 아이템/회복 아이템 테이블.md",
     "A.게임 기획서/e.아이템/아티팩트/아티팩트 클래스.md",
     "A.게임 기획서/e.아이템/인조인간 정신의체/인조인간 등급제.md",
     "A.게임 기획서/e.아이템/아티팩트/Abyssal Echo.md",
@@ -187,7 +190,6 @@
     "시야 교란.md",
     "A.게임 기획서/g.캐릭터/Arcane Warrior - Frostrike.md",
     "A.게임 기획서/b.캐릭터 요소/상태이상/시야 교란.md",
-    "A.게임 기획서/d.탐험대/아티팩트 데스크.md",
     "A.게임 기획서/d.탐험대/무제 폴더",
     "A.게임 기획서/e.아이템/인조인간 정신의체",
     "DALL·E 2023-10-09 21.21.48 - Illustration of a 'Mystic Mirage' relic, designed in the vein of League of Legends items. The relic is a golden compass with an intricate design, its .png",
