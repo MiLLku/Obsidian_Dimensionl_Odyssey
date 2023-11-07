@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(중).md",
+                "file": "A.게임 기획서/a.게임 개요/게임 정보.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fc3c57e10849761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.게임 기획서/a.게임 개요/게임 정보.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(중).md",
+                "file": "A.게임 기획서/a.게임 개요/게임 정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(중).md",
+                "file": "A.게임 기획서/a.게임 개요/게임 정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(중).md"
+                "file": "A.게임 기획서/a.게임 개요/게임 정보.md"
               }
             }
           },
@@ -157,22 +170,30 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "416266c575fcc21f",
+  "active": "0fc3c57e10849761",
   "lastOpenFiles": [
-    "A.게임 기획서/e.아이템/소모 아이템/회복 아이템 테이블.md",
-    "A.게임 기획서/e.아이템/소모 아이템/자극제/자극제 설명, 테이블.md",
+    "Excalidraw/게임 개요-게임 방식.md",
+    "A.게임 기획서/k.적/Information/Status/Pasted Image 20231108004406_382.png",
+    "A.게임 기획서/k.적/Information/Status/Pasted Image 20231108002420_818.png",
+    "A.게임 기획서/k.적/Information/Status/Pasted Image 20231108002349_804.png",
+    "A.게임 기획서/k.적/Information/Status",
+    "A.게임 기획서/a.게임 개요/게임 정보.md",
+    "A.게임 기획서/d.탐험대/거래소.md",
+    "A.게임 기획서/d.탐험대/제작 공방.md",
     "A.게임 기획서/e.아이템/소모 아이템/자극제/아드레날린 자극제.md",
+    "A.게임 기획서/e.아이템/소모 아이템/자극제/자극제 설명, 테이블.md",
+    "A.게임 기획서/e.아이템/소모 아이템/정신력 관련/각성제.md",
+    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/고속 수복 키트.md",
+    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/수복 키트.md",
+    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(중).md",
+    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(소).md",
+    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(대).md",
+    "A.게임 기획서/e.아이템/소모 아이템/회복 아이템 테이블.md",
     "A.게임 기획서/e.아이템/소모 아이템/자극제",
     "A.게임 기획서/e.아이템/소모 아이템/자극제.md",
-    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/고속 수복 키트.md",
-    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(대).md",
     "A.게임 기획서/e.아이템/소모 아이템/자극제",
     "A.게임 기획서/e.아이템/소모 아이템/정신력 관련",
     "A.게임 기획서/e.아이템/소모 아이템/체력 관련",
-    "A.게임 기획서/e.아이템/소모 아이템/정신력 관련/각성제.md",
-    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(중).md",
-    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(소).md",
-    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/수복 키트.md",
     "A.게임 기획서/e.아이템/아티팩트/아티팩트 클래스.md",
     "A.게임 기획서/e.아이템/인조인간 정신의체/인조인간 등급제.md",
     "A.게임 기획서/e.아이템/아티팩트/Abyssal Echo.md",
@@ -185,11 +206,6 @@
     "A.게임 기획서/g.캐릭터/Whisper - Nova.md",
     "A.게임 기획서/g.캐릭터/Gunner - Swift.md",
     "A.게임 기획서/g.캐릭터/Bland Dancer - Valentine.md",
-    "스텔스.md",
-    "A.게임 기획서/g.캐릭터/Granadier - Rockie.md",
-    "시야 교란.md",
-    "A.게임 기획서/g.캐릭터/Arcane Warrior - Frostrike.md",
-    "A.게임 기획서/b.캐릭터 요소/상태이상/시야 교란.md",
     "A.게임 기획서/d.탐험대/무제 폴더",
     "A.게임 기획서/e.아이템/인조인간 정신의체",
     "DALL·E 2023-10-09 21.21.48 - Illustration of a 'Mystic Mirage' relic, designed in the vein of League of Legends items. The relic is a golden compass with an intricate design, its .png",
