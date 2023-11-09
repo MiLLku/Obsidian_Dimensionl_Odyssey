@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z.기타/아티팩트와 설계 의도.md",
+                "file": "A.게임 기획서/a.게임 개요/게임 정보.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z.기타/아티팩트와 설계 의도.md",
+                "file": "A.게임 기획서/a.게임 개요/게임 정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z.기타/아티팩트와 설계 의도.md",
+                "file": "A.게임 기획서/a.게임 개요/게임 정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z.기타/아티팩트와 설계 의도.md"
+                "file": "A.게임 기획서/a.게임 개요/게임 정보.md"
               }
             }
           },
@@ -160,9 +160,10 @@
   },
   "active": "416266c575fcc21f",
   "lastOpenFiles": [
-    "A.게임 기획서/d.탐험대/아티팩트 데스크.md",
     "Z.기타/아티팩트와 설계 의도.md",
     "A.게임 기획서/a.게임 개요/게임 정보.md",
+    "A.게임 기획서/d.탐험대/아티팩트 데스크.md",
+    "A.게임 기획서/e.아이템/아티팩트/아티팩트 클래스.md",
     "Excalidraw/게임 개요-게임 방식.md",
     "A.게임 기획서/k.적/Information/Status/Pasted Image 20231108004406_382.png",
     "A.게임 기획서/k.적/Information/Status/Pasted Image 20231108002420_818.png",
@@ -184,7 +185,6 @@
     "A.게임 기획서/e.아이템/소모 아이템/자극제",
     "A.게임 기획서/e.아이템/소모 아이템/정신력 관련",
     "A.게임 기획서/e.아이템/소모 아이템/체력 관련",
-    "A.게임 기획서/e.아이템/아티팩트/아티팩트 클래스.md",
     "A.게임 기획서/e.아이템/인조인간 정신의체/인조인간 등급제.md",
     "A.게임 기획서/e.아이템/아티팩트/Abyssal Echo.md",
     "A.게임 기획서/b.캐릭터 요소/상태이상/슬로우.md",
