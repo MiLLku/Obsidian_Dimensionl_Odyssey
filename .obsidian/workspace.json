@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "60b7374faec3fa2e",
+        "id": "6f13585deb93adaa",
         "type": "tabs",
         "children": [
           {
-            "id": "416266c575fcc21f",
+            "id": "fd77d0f2d5316a8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/a.게임 개요/게임 정보.md",
+                "file": "A.게임 기획서/a.게임 개요/6. 기대 효과.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ab29f3a7610929ae",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.게임 기획서/a.게임 개요/게임 정보.md",
+                "file": "A.게임 기획서/a.게임 개요/6. 기대 효과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.게임 기획서/a.게임 개요/게임 정보.md",
+                "file": "A.게임 기획서/a.게임 개요/6. 기대 효과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.게임 기획서/a.게임 개요/게임 정보.md"
+                "file": "A.게임 기획서/a.게임 개요/6. 기대 효과.md"
               }
             }
           },
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,46 +157,51 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "416266c575fcc21f",
+  "active": "fd77d0f2d5316a8f",
   "lastOpenFiles": [
-    "Excalidraw/게임 정보-기획 의도.md",
-    "A.게임 기획서/a.게임 개요/게임 정보.md",
-    "Z.기타/타르코프 라이크 재미의 원천.md",
-    "Z.기타/아티팩트와 설계 의도.md",
+    "A.게임 기획서/a.게임 개요/5. 핵심 재미요소.md",
+    "A.게임 기획서/a.게임 개요/6. 기대 효과.md",
+    "Excalidraw/매 판 매 판 흐름.md",
+    "매 판 매 판 흐름.md",
+    "A.게임 기획서/a.게임 개요/4. 게임 플레이.md",
+    "Excalidraw/다양한 플레이.md",
+    "A.게임 기획서/e.아이템/아티팩트/Soul Eater.md",
+    "A.게임 기획서/e.아이템/아티팩트/Shadow Clock.md",
+    "A.게임 기획서/e.아이템/아티팩트/Nebula Quiver.md",
+    "A.게임 기획서/e.아이템/아티팩트/Nature's Blessing.md",
+    "A.게임 기획서/e.아이템/아티팩트/Mystic Mirage.md",
+    "A.게임 기획서/e.아이템/아티팩트/El Dorado's Compass.md",
+    "A.게임 기획서/e.아이템/아티팩트/Abyssal Echo.md",
     "A.게임 기획서/d.탐험대/아티팩트 데스크.md",
     "A.게임 기획서/e.아이템/아티팩트/아티팩트 클래스.md",
-    "Excalidraw/게임 개요-게임 방식.md",
-    "A.게임 기획서/k.적/Information/Status/Pasted Image 20231108004406_382.png",
-    "A.게임 기획서/k.적/Information/Status/Pasted Image 20231108002420_818.png",
-    "A.게임 기획서/k.적/Information/Status/Pasted Image 20231108002349_804.png",
+    "DALL·E 2023-10-09 20.44.33 - Illustration of a pocket watch that exudes dark magic. The exterior of the 'Shadow Clock' is adorned with swirling dark patterns, resembling shadows i.png",
+    "DALL·E 2023-10-09 21.23.37 - Illustration of an item named 'Time Keeper' inspired by the aesthetic of League of Legends items. The artifact is a sandglass with golden frames, the .png",
+    "DALL·E 2023-10-09 21.25.55 - Illustration of a 'Nature's Blessing' staff, designed in the vein of League of Legends items. The staff is crafted from ancient twisted wood, with a c.png",
+    "Extra/Wind Waker Illust.png",
+    "Extra/Abyssal Echo Illust.png",
+    "Extra/Celestial Compass Illust.png",
+    "Extra/Nexus Prime X Illust.png",
+    "Extra/Nexus Prime Z Illust.png",
+    "Extra/Soul Eater Illust.png",
+    "Extra/Whispering Relic Illust.png",
+    "Excalidraw/Drawing 2023-11-12 22.42.16.excalidraw.md",
+    "다양한 플레이.md",
+    "A.게임 기획서/g.캐릭터/Whisper - Nova.md",
+    "A.게임 기획서/g.캐릭터/Gunner - Swift.md",
+    "A.게임 기획서/g.캐릭터/Granadier - Rockie.md",
+    "A.게임 기획서/g.캐릭터/Bland Dancer - Valentine.md",
+    "A.게임 기획서/g.캐릭터/Arcane Warrior - Frostrike.md",
+    "스텔스.md",
+    "Z.기타/아티팩트 예시.md",
+    "Z.기타/연구 예시.md",
+    "Z.기타/장비 예시.md",
     "A.게임 기획서/k.적/Information/Status",
-    "A.게임 기획서/d.탐험대/거래소.md",
-    "A.게임 기획서/d.탐험대/제작 공방.md",
-    "A.게임 기획서/e.아이템/소모 아이템/자극제/아드레날린 자극제.md",
-    "A.게임 기획서/e.아이템/소모 아이템/자극제/자극제 설명, 테이블.md",
-    "A.게임 기획서/e.아이템/소모 아이템/정신력 관련/각성제.md",
-    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/고속 수복 키트.md",
-    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/수복 키트.md",
-    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(중).md",
-    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(소).md",
-    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/재생 포션(대).md",
-    "A.게임 기획서/e.아이템/소모 아이템/회복 아이템 테이블.md",
     "A.게임 기획서/e.아이템/소모 아이템/자극제",
-    "A.게임 기획서/e.아이템/소모 아이템/자극제.md",
     "A.게임 기획서/e.아이템/소모 아이템/자극제",
     "A.게임 기획서/e.아이템/소모 아이템/정신력 관련",
     "A.게임 기획서/e.아이템/소모 아이템/체력 관련",
-    "A.게임 기획서/e.아이템/인조인간 정신의체/인조인간 등급제.md",
-    "A.게임 기획서/e.아이템/아티팩트/Abyssal Echo.md",
-    "A.게임 기획서/b.캐릭터 요소/상태이상/슬로우.md",
-    "A.게임 기획서/b.캐릭터 요소/상태이상/기절.md",
     "A.게임 기획서/e.아이템/소모 아이템",
-    "A.게임 기획서/b.캐릭터 요소/스테이터스.md",
-    "A.게임 기획서/b.캐릭터 요소/상태이상/교란.md",
-    "A.게임 기획서/b.캐릭터 요소/상태이상/정신 가속.md",
     "A.게임 기획서/d.탐험대/무제 폴더",
-    "A.게임 기획서/e.아이템/인조인간 정신의체",
-    "DALL·E 2023-10-09 21.21.48 - Illustration of a 'Mystic Mirage' relic, designed in the vein of League of Legends items. The relic is a golden compass with an intricate design, its .png",
-    "DALL·E 2023-10-09 20.44.33 - Illustration of a pocket watch that exudes dark magic. The exterior of the 'Shadow Clock' is adorned with swirling dark patterns, resembling shadows i.png"
+    "A.게임 기획서/e.아이템/인조인간 정신의체"
   ]
 }
