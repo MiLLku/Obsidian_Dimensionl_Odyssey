@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6f13585deb93adaa",
+        "id": "717c718204f13e44",
         "type": "tabs",
         "children": [
           {
-            "id": "fd77d0f2d5316a8f",
+            "id": "4629a0e4369f40af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.게임 기획서/a.게임 개요/7. 게임 전체 구조도.md",
+                "file": "A.게임 기획서/e.아이템/인조인간 정신의체/인조인간 등급제.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "32ec26dda7a9b8c1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-13 23.03.13.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-13 23.03.13.excalidraw.md",
+                "file": "A.게임 기획서/e.아이템/인조인간 정신의체/인조인간 등급제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-13 23.03.13.excalidraw.md",
+                "file": "A.게임 기획서/e.아이템/인조인간 정신의체/인조인간 등급제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-13 23.03.13.excalidraw.md"
+                "file": "A.게임 기획서/e.아이템/인조인간 정신의체/인조인간 등급제.md"
               }
             }
           },
@@ -168,10 +157,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "32ec26dda7a9b8c1",
+  "active": "4629a0e4369f40af",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-13 23.03.13.excalidraw.md",
+    "A.게임 기획서/e.아이템/소모 아이템/체력 관련/고속 수복 키트.md",
+    "A.게임 기획서/e.아이템/소모 아이템/정신력 관련/각성제.md",
+    "A.게임 기획서/a.게임 개요/8. 스토리 설정.md",
+    "A.게임 기획서/a.게임 개요/게임 정보.md",
+    "A.게임 기획서/a.게임 개요/1. 게임 정보.md",
     "A.게임 기획서/a.게임 개요/7. 게임 전체 구조도.md",
+    "Excalidraw/7-2 게임 재화 순환 구조도.md",
     "A.게임 기획서/a.게임 개요/6. 기대 효과.md",
     "A.게임 기획서/a.게임 개요/5. 핵심 재미요소.md",
     "Excalidraw/매 판 매 판 흐름.md",
@@ -201,11 +195,6 @@
     "다양한 플레이.md",
     "A.게임 기획서/g.캐릭터/Whisper - Nova.md",
     "A.게임 기획서/g.캐릭터/Gunner - Swift.md",
-    "A.게임 기획서/g.캐릭터/Granadier - Rockie.md",
-    "A.게임 기획서/g.캐릭터/Bland Dancer - Valentine.md",
-    "A.게임 기획서/g.캐릭터/Arcane Warrior - Frostrike.md",
-    "스텔스.md",
-    "Z.기타/아티팩트 예시.md",
     "A.게임 기획서/k.적/Information/Status",
     "A.게임 기획서/e.아이템/소모 아이템/자극제",
     "A.게임 기획서/e.아이템/소모 아이템/자극제",

@@ -77,44 +77,33 @@
         "status": "unpublished",
         "elements": [
           {
-            "id": "U2AA5xUuPitIokhlZXFIQ",
             "type": "arrow",
-            "x": 909.879010162859,
-            "y": -181.4768042801162,
-            "width": 325.39828213778424,
-            "height": 542.8303111683242,
-            "angle": 0,
-            "strokeColor": "#1e1e1e",
-            "backgroundColor": "#ffc9c9",
+            "version": 103,
+            "versionNonce": 731175324,
+            "isDeleted": false,
+            "id": "U2AA5xUuPitIokhlZXFIQ",
             "fillStyle": "solid",
             "strokeWidth": 1,
             "strokeStyle": "solid",
             "roughness": 1,
             "opacity": 100,
+            "angle": 0,
+            "x": 909.879010162859,
+            "y": -181.4768042801162,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "#ffc9c9",
+            "width": 325.39828213778424,
+            "height": 542.8303111683242,
+            "seed": 1340231076,
             "groupIds": [],
             "frameId": null,
             "roundness": {
               "type": 2
             },
-            "seed": 1340231076,
-            "version": 103,
-            "versionNonce": 731175324,
-            "isDeleted": false,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1699887563502,
             "link": null,
             "locked": false,
-            "points": [
-              [
-                0,
-                0
-              ],
-              [
-                325.39828213778424,
-                542.8303111683242
-              ]
-            ],
-            "lastCommittedPoint": null,
             "startBinding": {
               "elementId": "hRLwWgAUulhbD3T0DEIus",
               "focus": -0.9065801115061037,
@@ -125,8 +114,19 @@
               "focus": -0.9116427901556718,
               "gap": 10.144841974431756
             },
+            "lastCommittedPoint": null,
             "startArrowhead": null,
-            "endArrowhead": "arrow"
+            "endArrowhead": "arrow",
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                325.39828213778424,
+                542.8303111683242
+              ]
+            ]
           }
         ],
         "id": "rZgyviwzRpqHWU7W4bbjV",
