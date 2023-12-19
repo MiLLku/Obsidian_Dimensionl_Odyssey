@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4629a0e4369f40af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A.게임 기획서/g.캐릭터/Arcane Warrior - Frostrike.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e74559344c028e5f",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
